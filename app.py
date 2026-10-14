@@ -1,3 +1,4 @@
+# Ajustes de visualización - rama lorena-viz
 import dash
 from dash import dcc
 from dash import html
